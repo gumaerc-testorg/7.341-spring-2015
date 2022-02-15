@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 78cb7749-2b45-3905-5aca-aacacf27eea7
 ---
@@ -63,20 +65,6 @@ None
 ### Offered
 
 Advanced Undergraduate Seminars are offered each semester and are topic-based.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Classroom with four rectangular tables arranged into one larger rectangle. Blue chairs around the table. White board on one wall. A large television monitor mounted to the front wall.]({{< resource_file a9ea0ec6-f793-d0c0-dc2b-49b9c9e33def >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    Sessions were held in a classroom with seminar seating and audio-visual equipment.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

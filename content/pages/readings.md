@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7e163d7b-0bbf-2a37-2c6c-f5874f31469c
 ---
@@ -80,7 +83,7 @@ Cancer stem cells and minimal residual disease
 
 Lapidot, T., C. Sirard, et al. "[A Cell Initiating Human Acute Myeloid Leukaemia after Transplantation into SCID Mice](http://dx.doi.org/10.1038/367645a0)." _Nature_ 367, no. 6464 (1994): 645–48.
 
-Gerber, J. M., B. D. Smith, et al. "[A Clinically Relevant Population of Leukemic CD34+CD38– Cells in Acute Myeloid Leukemia](http://dx.doi.org/10.1182/blood-2011-06-364182)." _Blood_ 119, no. 15 (2012): 3571–77.
+Gerber, J. M., B. D. Smith, et al. "[A Clinically Relevant Population of Leukemic CD34{{< sup "+" >}}CD38{{< sup "–" >}} Cells in Acute Myeloid Leukemia](http://dx.doi.org/10.1182/blood-2011-06-364182)." _Blood_ 119, no. 15 (2012): 3571–77.
 
 
 {{< tdclose >}}
@@ -126,9 +129,9 @@ Making a better Mouse Man—Recent developments in humanized mouse technologies
 {{< tdopen >}}
 
 
-Shultz, Leonard D., Yoriko Saito, et al. "[Generation of Functional Human T–cell Subsets with HLA–restricted Immune Responses in HLA Class I Expressing NOD/SCID/IL2rγnull Humanized Mice](http://dx.doi.org/10.1073/pnas.1000475107)." _Proceedings of the National Academy of Sciences_ 107, no. 29 (2010): 13022–27.
+Shultz, Leonard D., Yoriko Saito, et al. "[Generation of Functional Human T–cell Subsets with HLA–restricted Immune Responses in HLA Class I Expressing NOD/SCID/IL2rγ{{< sup "null" >}} Humanized Mice](http://dx.doi.org/10.1073/pnas.1000475107)." _Proceedings of the National Academy of Sciences_ 107, no. 29 (2010): 13022–27.
 
-Lan, P., N. Tonomura, et al. "[Reconstitution of a Functional Human Immune System in Immunodeficient Mice through Combined Human Fetal Thymus / Liver and CD34+ Cell Transplantation](http://dx.doi.org/10.1182/blood-2005-11-4388)." _Blood_ 108, no. 2 (2006): 487–92.
+Lan, P., N. Tonomura, et al. "[Reconstitution of a Functional Human Immune System in Immunodeficient Mice through Combined Human Fetal Thymus / Liver and CD34{{< sup "+" >}} Cell Transplantation](http://dx.doi.org/10.1182/blood-2005-11-4388)." _Blood_ 108, no. 2 (2006): 487–92.
 
 
 {{< tdclose >}}
