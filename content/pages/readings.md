@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains a list of readings by week and includes links to
+  lecture summaries and online journal articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7e163d7b-0bbf-2a37-2c6c-f5874f31469c
 ---
@@ -29,7 +34,7 @@ READINGS
 
 Introduction
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm1)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm1" %}}
 
 
 {{< tdclose >}}
@@ -47,7 +52,7 @@ No Readings
 
 Of tumor suppressors and oncogenes
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm2)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm2" %}}
 
 
 {{< tdclose >}}
@@ -71,7 +76,7 @@ Baker, S. J., S. Markowitz, et al. "[Suppression of Human Colorectal Carcinoma C
 
 Cancer stem cells and minimal residual disease
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm3)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm3" %}}
 
 
 {{< tdclose >}}
@@ -80,7 +85,7 @@ Cancer stem cells and minimal residual disease
 
 Lapidot, T., C. Sirard, et al. "[A Cell Initiating Human Acute Myeloid Leukaemia after Transplantation into SCID Mice](http://dx.doi.org/10.1038/367645a0)." _Nature_ 367, no. 6464 (1994): 645–48.
 
-Gerber, J. M., B. D. Smith, et al. "[A Clinically Relevant Population of Leukemic CD34+CD38– Cells in Acute Myeloid Leukemia](http://dx.doi.org/10.1182/blood-2011-06-364182)." _Blood_ 119, no. 15 (2012): 3571–77.
+Gerber, J. M., B. D. Smith, et al. "[A Clinically Relevant Population of Leukemic CD34{{< sup "\+" >}}CD38{{< sup "–" >}} Cells in Acute Myeloid Leukemia](http://dx.doi.org/10.1182/blood-2011-06-364182)." _Blood_ 119, no. 15 (2012): 3571–77.
 
 
 {{< tdclose >}}
@@ -95,7 +100,7 @@ Gerber, J. M., B. D. Smith, et al. "[A Clinically Relevant Population of Leukemi
 
 Can we model human cancers in mice?
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm4)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm4" %}}
 
 
 {{< tdclose >}}
@@ -119,16 +124,16 @@ Ishikawa, F., S. Yoshida, et al. "[Chemotherapy–resistant Human AML Stem Cells
 
 Making a better Mouse Man—Recent developments in humanized mouse technologies
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm5)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm5" %}}
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Shultz, Leonard D., Yoriko Saito, et al. "[Generation of Functional Human T–cell Subsets with HLA–restricted Immune Responses in HLA Class I Expressing NOD/SCID/IL2rγnull Humanized Mice](http://dx.doi.org/10.1073/pnas.1000475107)." _Proceedings of the National Academy of Sciences_ 107, no. 29 (2010): 13022–27.
+Shultz, Leonard D., Yoriko Saito, et al. "[Generation of Functional Human T–cell Subsets with HLA–restricted Immune Responses in HLA Class I Expressing NOD/SCID/IL2rγ{{< sup "null" >}} Humanized Mice](http://dx.doi.org/10.1073/pnas.1000475107)." _Proceedings of the National Academy of Sciences_ 107, no. 29 (2010): 13022–27.
 
-Lan, P., N. Tonomura, et al. "[Reconstitution of a Functional Human Immune System in Immunodeficient Mice through Combined Human Fetal Thymus / Liver and CD34+ Cell Transplantation](http://dx.doi.org/10.1182/blood-2005-11-4388)." _Blood_ 108, no. 2 (2006): 487–92.
+Lan, P., N. Tonomura, et al. "[Reconstitution of a Functional Human Immune System in Immunodeficient Mice through Combined Human Fetal Thymus / Liver and CD34{{< sup "\+" >}} Cell Transplantation](http://dx.doi.org/10.1182/blood-2005-11-4388)." _Blood_ 108, no. 2 (2006): 487–92.
 
 
 {{< tdclose >}}
@@ -143,7 +148,7 @@ Lan, P., N. Tonomura, et al. "[Reconstitution of a Functional Human Immune Syste
 
 Sophisticated models of _de novo_ human tumors in humanized mice
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm6)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm6" %}}
 
 
 {{< tdclose >}}
@@ -167,7 +172,7 @@ Washburn, M. L., M. T. Bility, et al. "[A Humanized Mouse Model to Study Hepatit
 
 Visit to Chen Research Lab
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm7)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm7" %}}
 
 
 {{< tdclose >}}
@@ -185,7 +190,7 @@ No Readings
 
 The immune system and cancer—Cancer Immunoediting hypothesis
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm8)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm8" %}}
 
 
 {{< tdclose >}}
@@ -209,7 +214,7 @@ Muul, L. M., P. J., Spiess, et al. "[Identification of Specific Cytolytic Immune
 
 T cell mediated immunotherapy
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm9)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm9" %}}
 
 
 {{< tdclose >}}
@@ -233,7 +238,7 @@ Vudattu, N. K., F. Waldron–Lynch, et al. "[Humanized Mice as a Model for Aberr
 
 Improving combination chemotherapy and immune–based therapies based on lessons learned from humanized mice
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm10)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm10" %}}
 
 
 {{< tdclose >}}
@@ -257,7 +262,7 @@ Pallasch, C. P., I. Leskov, et al. "[Sensitizing Protective Tumor Microenvironme
 
 Personalized mice—Part 1: Mouse Avatars
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm11)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm11" %}}
 
 
 {{< tdclose >}}
@@ -281,7 +286,7 @@ Garralda, E., K. Paz, et al. "[Integrated Next–generation Sequencing and Avata
 
 Personalized mice—Part 2: Co–clinical trials
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm12)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm12" %}}
 
 
 {{< tdclose >}}
@@ -305,7 +310,7 @@ Chen, Z., E. Akbay, et al. "[Co–clinical Trials Demonstrate Superiority of Cri
 
 Class presentation and course evaluation
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#Lsumm13)
+{{% resource_link 412120c3-d837-bae9-2e73-08a2d78e8810 "See the Lecture Summary" "#Lsumm13" %}}
 
 
 {{< tdclose >}}

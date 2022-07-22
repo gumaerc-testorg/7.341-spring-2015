@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides summaries of the weekly lecture sessions of the
+  course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 412120c3-d837-bae9-2e73-08a2d78e8810
 ---
