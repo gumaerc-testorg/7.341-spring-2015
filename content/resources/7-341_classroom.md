@@ -12,6 +12,7 @@ image_metadata:
     Blue chairs around the table. White board on one wall. A large television monitor
     mounted to the front wall.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
@@ -21,4 +22,3 @@ title: 7.341 classroom
 uid: a9ea0ec6-f793-d0c0-dc2b-49b9c9e33def
 ---
 7.341 sessions were held in a classroom with seminar seating and audio-visual equipment.
-
