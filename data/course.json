@@ -52,8 +52,10 @@
     "website": "7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "580b293a-fb89-47b6-9fd6-70ab34f0121d",
+  "site_uid": "06bb539c-b535-4078-b462-a1ca9c81ceea",
+  "short_id": "7.341-spring-2015",
   "title": "Course Metadata"
 }
