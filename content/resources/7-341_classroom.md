@@ -2,7 +2,8 @@
 content_type: resource
 description: 7.341 sessions were held in a classroom with seminar seating and audio-visual
   equipment.
-file: /courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015/a9ea0ec6f793d0c0dc2b49b9c9e33def_7.341_classroom.jpg
+file: /ol-ocw-studio-app/courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015/a9ea0ec6f793d0c0dc2b49b9c9e33def_7.341_classroom.jpg
+file_size: 62790
 file_type: image/jpeg
 image_metadata:
   caption: Sessions were held in a classroom with seminar seating and audio-visual

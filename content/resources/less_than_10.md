@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: ''
-file: /courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015/less_than_10.png
+file: /ol-ocw-studio-app/courses/7-341-of-mice-and-men-humanized-mice-in-cancer-research-spring-2015/less_than_10.png
+file_size: 2955
 file_type: image/png
 image_metadata:
   caption: ''
